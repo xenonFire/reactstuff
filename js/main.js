@@ -9,5 +9,5 @@ var Hello = React.createClass({
 
 ReactDOM.render(
     <Hello />,
-    document.getElementById("content-wrapper")
+    document.getElementById("contentWrapper")
 );
