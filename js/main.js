@@ -1,5 +1,3 @@
-console.log("Js loaded");
-
 var Hello = React.createClass({
     render: function() {
         var text = "this is the variable text"
